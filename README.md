@@ -2,7 +2,7 @@
 
 # <h1 align="center">Hello there! 👋 I'm Víctor J Chavarría</h1>
 <p align="center">
-I'm a game developer, UX and IU designer, level designer, and programmer, with knowledge in PixelArt, Art, Music, Dubbling.
+I'm a game developer, UX and IU designer, level designer, and programmer, with knowledge in PixelArt, Art, Music, Dubbing.
 </p>
 <p align="center">
 I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
@@ -162,7 +162,6 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 <a href="#" width="40" height="40">
   <img src="./img/Tools/adobeColor.png" alt="Adobe Color" width="40" height="40">
 </a>
-</p>
 
 ### <h3 align="left">Informatic languages</h3>
 <p align="left">
@@ -188,6 +187,7 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 
 ### <h3 align="left">Languages</h3>
 <p align="left">
+
 <a href="#" width="40" height="40">
   <img src="./img/Lenguajes/arg.png" alt="Español" width="40" height="40">
 </a>

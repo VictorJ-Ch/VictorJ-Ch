@@ -166,12 +166,24 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 
 <h3 align="left">Informatic languages</h3>
 <p align="left">
-<a width="40" height="40">![C#]()</a>
-<a width="40" height="40">![C++]()</a>
-<a width="40" height="40">![JS]()</a>
-<a width="40" height="40">![C]()</a>
-<a width="40" height="40">![PHP]()</a>
-<a width="40" height="40">![Bash]()</a>
+<a href="#" width="40" height="40">
+  <img src="./img/LenguajesInformaticos/cGato.png" alt="C#" width="40" height="40">
+</a>
+<a href="#" width="40" height="40">
+  <img src="./img/LenguajesInformaticos/c++.png" alt="C++" width="40" height="40">
+</a>
+<a href="#" width="40" height="40">
+  <img src="./img/LenguajesInformaticos/js.png" alt="JavaScript" width="40" height="40">
+</a>
+<a href="#" width="40" height="40">
+  <img src="./img/LenguajesInformaticos/c.png" alt="C" width="40" height="40">
+</a>
+<a href="#" width="40" height="40">
+  <img src="./img/LenguajesInformaticos/php.png" alt="PHP" width="40" height="40">
+</a>
+<a href="#" width="40" height="40">
+  <img src="./img/LenguajesInformaticos/bash.png" alt="Bash" width="40" height="40">
+</a>
 </p>
 
 <h3 align="left">Languages</h3>

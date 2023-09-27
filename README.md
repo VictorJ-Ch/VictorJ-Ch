@@ -61,7 +61,7 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
   <img src="./img/Tools/HTML.png" alt="HTML" width="40" height="40">
 </a>
 <a href="#" width="40" height="40">
-  <img src="./img/Tools/VisualStudio.png" alt="Visual Studio" width="40" height="40">
+  <img src="./img/Tools/VS.png" alt="Visual Studio" width="40" height="40">
 </a>
 <a href="#" width="40" height="40">
   <img src="./img/Tools/codesandbox.png" alt="CodeSandbox" width="40" height="40">
@@ -170,7 +170,7 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
   <img src="./img/LenguajesInformaticos/cGato.png" alt="C#" width="40" height="40">
 </a>
 <a href="#" width="40" height="40">
-  <img src="./img/LenguajesInformaticos/c++.png" alt="C++" width="40" height="40">
+  <img src="./img/LenguajesInformaticos/Cmasmas.png" alt="C++" width="40" height="40">
 </a>
 <a href="#" width="40" height="40">
   <img src="./img/LenguajesInformaticos/js.png" alt="JavaScript" width="40" height="40">
@@ -188,9 +188,19 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 
 <h3 align="left">Languages</h3>
 <p align="left">
-<a width="40" height="40">![Español]()</a>
-<a width="40" height="40">![Inglés]()</a>
-<a width="40" height="40">![Francés]()</a>
-<a width="40" height="40">![Japonés]()</a>
-<a width="40" height="40">![ÁrabeTradicional]()</a>
+<a href="#" width="40" height="40">
+  <img src="./img/Lenguajes/arg.png" alt="Español" width="40" height="40">
+</a>
+<a href="#" width="40" height="40">
+  <img src="./img/Lenguajes/uk.png" alt="Inglés" width="40" height="40">
+</a>
+<a href="#" width="40" height="40">
+  <img src="./img/Lenguajes/fr.png" alt="Francés" width="40" height="40">
+</a>
+<a href="#" width="40" height="40">
+  <img src="./img/Lenguajes/jp.jpeg" alt="Japonés" width="40" height="40">
+</a>
+<a href="#" width="40" height="40">
+  <img src="./img/Lenguajes/emiratos.png" alt="Árabe Tradicional" width="40" height="40">
+</a>
 </p>

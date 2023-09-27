@@ -10,16 +10,38 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 
 <h3 align="left">Contact me</h3>
 <p align = "left">
-<a href="https://twitter.com/victor_ch_7" width="40" height="40">![X]()</a>
-<a href="https://www.facebook.com/kaseem.chavarria?locale=es_LA" width="40" height="40">![Facebok]()</a>
-<a width="40" height="40">![Email]() chavarria.martinez.victor101@gmail.com</a>
-<a href="https://www.instagram.com/kaseemch.3/" width="40" height="40">![Instagram]()</a>
-<a href="https://www.youtube.com/channel/UCxo9CMtBapRXDxtP04POjDg" width="40" height="40">![YouTube]()</a>
-<a width="40" height="40">![Discord]() @inztinct_of</a>
-<a href="https://inztinct.itch.io" width="40" height="40">![Itch.io]()</a>
-<a href="https://www.tiktok.com/@kaseemch.3" width="40" height="40">![TikTok]()</a>
-<a href="https://www.linkedin.com/in/víctor-javier-chavarría-martínez-357597221/" width="40" height="40">![LinkedIn]()</a>
-<a href="https://github.com/VictorJ-Ch" width="40" height="40">![GitHub]()</a>
+<a href="https://twitter.com/victor_ch_7" target="_blank">
+  <img src="./img/redesSociales/X.png" alt="X" width="40" height="40">
+</a>
+<a href="https://www.facebook.com/kaseem.chavarria?locale=es_LA" target="_blank">
+  <img src="./img/redesSociales/Facebook.png" alt="Facebook" width="40" height="40">
+</a>
+<a href="https://www.instagram.com/kaseemch.3/" target="_blank">
+  <img src="./img/redesSociales/Instagram.png" alt="Instagram" width="40" height="40">
+</a>
+<a href="https://www.youtube.com/channel/UCxo9CMtBapRXDxtP04POjDg" target="_blank">
+  <img src="./img/redesSociales/YouTube.png" alt="YouTube" width="40" height="40">
+</a>
+<a href="https://inztinct.itch.io" target="_blank">
+  <img src="./img/redesSociales/Itchio.png" alt="Itch.io" width="40" height="40">
+</a>
+<a href="https://www.tiktok.com/@kaseemch.3" target="_blank">
+  <img src="./img/redesSociales/TikTok.png" alt="TikTok" width="40" height="40">
+</a>
+<a href="https://www.linkedin.com/in/víctor-javier-chavarría-martínez-357597221/" target="_blank">
+  <img src="./img/redesSociales/LinkedIn.png" alt="LinkedIn" width="40" height="40">
+</a>
+<a href="https://github.com/VictorJ-Ch" target="_blank">
+  <img src="./img/redesSociales/GitHub.png" alt="GitHub" width="40" height="40">
+</a>
+
+<a href="https://discord.com/users/inztinct_of" target="_blank">
+  <img src="./img/redesSociales/Discord.png" alt="Discord" width="40" height="40"> @inztinct_of
+</a>
+
+<a href="mailto:chavarria.martinez.victor101@gmail.com">
+  <img src="./img/redesSociales/Email.png" alt="Email" width="40" height="40"> chavarria.martinez.victor101@gmail.com
+</a>
 </p>
 
 <h3 align="left">Tools</h3>

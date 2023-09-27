@@ -34,11 +34,13 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 <a href="https://github.com/VictorJ-Ch" target="_blank">
   <img src="./img/redesSociales/GitHub.png" alt="GitHub" width="40" height="40">
 </a>
-
+</p>
+<p align="left">
 <a href="https://discord.com/users/inztinct_of" target="_blank">
   <img src="./img/redesSociales/Discord.png" alt="Discord" width="40" height="40"> @inztinct_of
 </a>
-
+</p>
+<p align="left">
 <a href="mailto:chavarria.martinez.victor101@gmail.com">
   <img src="./img/redesSociales/Email.png" alt="Email" width="40" height="40"> chavarria.martinez.victor101@gmail.com
 </a>

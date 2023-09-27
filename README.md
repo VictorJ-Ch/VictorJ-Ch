@@ -1,6 +1,6 @@
 # ![Header](./img/banner/Banner.png)
 
-<h1 align="center">Hello there! 👋 I'm Víctor J Chavarría</h1>
+# <h1 align="center">Hello there! 👋 I'm Víctor J Chavarría</h1>
 <p align="center">
 I'm a game developer, UX and IU designer, level designer, and programmer, with knowledge in PixelArt, Art, Music, Dubbling.
 </p>
@@ -8,7 +8,7 @@ I'm a game developer, UX and IU designer, level designer, and programmer, with k
 I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 </p>
 
-<h3 align="left">Contact me</h3>
+### <h3 align="left">Contact me</h3>
 <p align = "left">
 <a href="https://twitter.com/victor_ch_7" target="_blank">
   <img src="./img/redesSociales/X.png" alt="X" width="40" height="40">
@@ -46,7 +46,7 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 </a>
 </p>
 
-<h3 align="left">Tools</h3>
+### <h3 align="left">Tools</h3>
 <p align="left">
  <a href="#" width="40" height="40">
   <img src="./img/Tools/Unity.png" alt="Unity" width="40" height="40">
@@ -164,7 +164,7 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 </a>
 </p>
 
-<h3 align="left">Informatic languages</h3>
+### <h3 align="left">Informatic languages</h3>
 <p align="left">
 <a href="#" width="40" height="40">
   <img src="./img/LenguajesInformaticos/cGato.png" alt="C#" width="40" height="40">
@@ -186,7 +186,7 @@ I'm also an influencer, and SmashBross and BrawlStars ProPrayer.
 </a>
 </p>
 
-<h3 align="left">Languages</h3>
+### <h3 align="left">Languages</h3>
 <p align="left">
 <a href="#" width="40" height="40">
   <img src="./img/Lenguajes/arg.png" alt="Español" width="40" height="40">
